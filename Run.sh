@@ -32,10 +32,10 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 figlet "Speed wifi" | lolcat
-echo $white"speed wifi"
+echo $white"hope for useful"
 echo ®____________Running Speed_____________ √
 sleep 2
-ping -s10000 8.8.8.8,8.8.4.4
+ping -s10000 8.8.8.8
 fi
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
